@@ -1,3 +1,5 @@
+properties([
+  pipelineTriggers([step([$class: 'GhprbPullRequestMerge'])])])
 pipeline {
   agent any
   stages {
@@ -6,12 +8,10 @@ pipeline {
         echo "Validate PR for Github Source Branch Plugin" 
         }
       }
-    }
     stage('Validate_Master') {
       steps {
         echo "Validate Master for Github Source Branch Plugin" 
         }
-      }
     }
   }
 }

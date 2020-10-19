@@ -12,3 +12,6 @@ adding pr without initiate
 adding pr with intiate
 adduiifbfd
 adding build
+#######################################################
+#######################################################
+adding pr for manual builds in jenkins

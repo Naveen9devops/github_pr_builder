@@ -24,3 +24,7 @@ pr for GHPRB, configuring refspec in SCM Advanced options
 configuring respec in Advanced options section in SCM  +refs/heads/*:refs/remotes/origin/*
 ######################################################
 after multiple tries GHPRB is not triggering
+######################################################
+supprisingly GHPRB is triggered may be content type changed to x-www-form
+######################################################
+configured new job without manual builds

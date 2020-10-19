@@ -38,3 +38,10 @@ adding admins in GHPRB Section
 After admins added job is triggered
 #######################################################
 created new job without manual build and configured admin in GHRPB Section
+#######################################################
+without manual build and configured +refs/pull/*:refs/remotes/origin/pr/* in refspec,
+adding user in admin list, providing github url in github project
+Job is successfully triggered
+#######################################################
+configuring new job with no refspec
+

@@ -34,3 +34,7 @@ adding pr for new GHPRB
 configuring respec in Advanced options section in SCM  +refs/pull/*:refs/remotes/origin/pr/*
 #######################################################
 adding admins in GHPRB Section
+#######################################################
+After admins added job is triggered
+#######################################################
+created new job without manual build and configured admin in GHRPB Section

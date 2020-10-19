@@ -30,3 +30,5 @@ supprisingly GHPRB is triggered may be content type changed to x-www-form
 configured new job without manual builds
 ######################################################
 adding pr for new GHPRB
+#######################################################
+configuring respec in Advanced options section in SCM  +refs/pull/*:refs/remotes/origin/pr/*

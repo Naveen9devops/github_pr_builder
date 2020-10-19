@@ -28,3 +28,5 @@ after multiple tries GHPRB is not triggering
 supprisingly GHPRB is triggered may be content type changed to x-www-form
 ######################################################
 configured new job without manual builds
+######################################################
+adding pr for new GHPRB

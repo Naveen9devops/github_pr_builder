@@ -17,3 +17,6 @@ adding build
 adding pr for manual builds in jenkins
 #######################################################
 adding pr for generic webhook at 16:33 19-10-2020
+jenkins job is succesfully triggered without manual builds from generic web hook trigger
+#######################################################
+pr for GHPRB, configuring refspec in SCM Advanced options

@@ -22,3 +22,5 @@ jenkins job is succesfully triggered without manual builds from generic web hook
 pr for GHPRB, configuring refspec in SCM Advanced options
 #######################################################
 configuring respec in Advanced options section in SCM  +refs/heads/*:refs/remotes/origin/*
+######################################################
+after multiple tries GHPRB is not triggering
